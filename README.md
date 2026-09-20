@@ -19,6 +19,8 @@
 
 ## 2. In-House Quality Engineering & Process Blueprinting Framework:
 
+![Quality Architecture & Pre-Sales Process Blueprinting Framework](./Assets/04-Quality-Architecture-Framework.jpeg)
+
 1. **Pre-Sales RFP Solutioning & Quality Design** — Collaborated with BD/Sales teams during client RFP discussions to translate requirements into end-to-end process maps, identify potential production error failure points, and design customized QA audit scorecards for client pitch proposals.
 2. **Gemba Walk Process Observation & Waste Identification** — Conducted silent, non-intrusive Gemba Walks behind frontline processors to observe real-world execution, note personal pain points, map unrecorded operational issues, and pinpoint automation opportunities.
 3. **Define & Measure (SIPOC, VOC & Data Collection)** — Established Project Charters, mapped high-level SIPOC boundaries, captured Pre & Post Voice of the Customer (VOC) feedback, and executed structured Data Collection Plans paired with Time-and-Motion studies.
