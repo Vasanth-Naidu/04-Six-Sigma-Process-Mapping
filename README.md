@@ -61,3 +61,6 @@
 * **Error-Proofing (Poka-Yoke) & SOP Governance:** Designing mistake-proofing controls and maintaining updated SOPs to ensure strict quality adherence.
 * **Capability Building & Training:** Delivering practical Six Sigma basics and MS Excel training to operational teams to drive continuous quality awareness.
 
+---
+
+**[🏠 Home](https://github.com/Vasanth-Naidu)** 
